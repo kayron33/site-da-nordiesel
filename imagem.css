@@ -71,7 +71,7 @@ article>h1{
 }
 article>p{
     font-size: 18px;
-    font-family: 'Kanit', sans-serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 article>p.contato{
     text-indent: 0px;
@@ -99,5 +99,21 @@ ul>h1.camionete{
 }
 ul>li{
     font-size: 18px;
-    font-family: 'Kanit', sans-serif;
+    font-family: Arial, Helvetica, sans-serif
+}
+footer{
+    min-width: 300px;
+    background-color: black
+    
+   
+
+
+}
+footer>p{
+    color: white;
+
+}
+footer>img{
+    width: 100%;
+    
 }
