@@ -67,6 +67,20 @@ article>p{
    font-family: Arial, Helvetica, sans-serif
 
 }
+p.k{
+    background-color: #000000;
+    color: white;
+
+}
+p.A{
+    background-color: #000000;
+    color: white;
+
+}
+p.nd{
+    background-color: #000000;
+    color: white;
+}
 article>h1{
     font-size: 24px;
     font-family: Arial, Helvetica, sans-serif
@@ -164,4 +178,21 @@ footer>p{
 footer>img{
     width: 100%;
     
+}
+footer{
+    background-color: black;
+    margin: 0px;
+}
+footer>h1{
+    color: yellow;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Archivo Black', sans-serif;
+
+}
+footer>p{
+    color: yellow;
+    text-align: center;
+    font-family:'Archivo Black', sans-serif;
+
 }
