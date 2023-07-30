@@ -11,7 +11,7 @@
 
 }
 header{
-    background-color: #000000;
+    background-image: linear-gradient(100deg,black,rgba(0, 0, 0, 0.384));
     margin-bottom: 3px;
 
 }
@@ -27,7 +27,7 @@ header>p{
     font-family:'Archivo Black', sans-serif;
 }
 nav{
-    background-color:#ebfc014d;
+    background-color:hsl(0, 0%, 0%);
     padding: 10px;
     min-width: 300px;
     margin-top: 5px;
@@ -35,7 +35,7 @@ nav{
 
 }
 nav>a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
