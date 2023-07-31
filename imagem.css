@@ -29,6 +29,7 @@ header>p{
 nav{
     background-color: black;
     margin-top: 4px;
+    border-radius: 5px;
 }
 nav>a{
     color: white;
@@ -58,4 +59,8 @@ article>p{
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
     margin: auto;
+}
+article>img{
+    width: 100%;
+    
 }
