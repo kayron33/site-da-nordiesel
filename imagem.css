@@ -47,6 +47,16 @@ nav>a:hover{
 
 
 }
+body{
+    background-color: rgba(0, 0, 0, 0.199);
+}
+main{
+    min-width: 300px;
+    max-width: 600px;
+    margin: auto;
+    
+   
+}
 article{
 
 }
@@ -62,13 +72,18 @@ article>p{
     margin: auto;
 }
 img.frente{
+    width: 100%;
 
   
     
 }
 article>img{
-    width:30%;
-    margin: auto;
+    width: 100%;
+    
+    
+
+    
+    
     
 }
 
@@ -77,8 +92,10 @@ aside{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.288) ;
-    min-width: 300px;
-}
+    min-width:300px ;
+    max-width:600px ;
+    position: absolute;
+}    
 aside>h2{
     color: white;
     background-color: black;
@@ -89,6 +106,7 @@ aside>h2{
 aside>ul{
     list-style-position: inside;
     columns: 2;
+    
 }
 ul>li{
     font-size: 18px;
