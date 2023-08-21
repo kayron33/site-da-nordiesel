@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: black;
+
+}
+header>h1{
+ color: yellow;
+ font-size: 65px;
+ text-align: center;
+ font-family: 'Archivo Black', sem serifa;
+}
+header>p{
+    color: yellow;
+    font-size: 24px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+nav{
+    background-color: black;
+    margin-top: 4px;
+    border-radius: 5px;
+}
+nav>a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0,2s;
+    font-size: 18px;
+    
+
+
+}
+nav>a:hover{
+    background-color: rgba(243, 227, 0, 0.082);
+    color: rgb(255, 238, 0);}
+    
+    
+
+    section.contato{
+        background-image: url(imagem/IMG_0032.JPG);
+        background-position: bottom ;
+        padding-top:15vh ;
+        padding-bottom:15vh ;
+        background-size: cover;
+        background-attachment: fixed;
+        max-width: 1366px;
+        min-width: 300px;
+        text-align: center;
+
+      
+    }
+    section>h1{
+        display: inline-block;
+    color: rgb(41, 156, 147);
+    font-size: 60px;
+    text-align: center;
+    
+    }
+
+    
