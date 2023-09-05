@@ -11,109 +11,17 @@
 
 }
 header{
-    background-color: black;
+    background-color: aliceblue;
+    
+    
 
 }
 header>h1{
- color: yellow;
- font-size: 65px;
- text-align: center;
- font-family: 'Archivo Black', sem serifa;
+    font-size: 25px;
+    
+
 }
 header>p{
-    color: yellow;
-    font-size: 24px;
-    text-align: center;
-    font-family:Arial, Helvetica, sans-serif ;
-}
-nav{
-    background-color: black;
-    margin-top: 4px;
-    border-radius: 5px;
-}
-nav>a{
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    transition-duration: 0,2s;
-    font-size: 18px;
     
 
-
-}
-nav>a:hover{
-    background-color: rgba(243, 227, 0, 0.082);
-    color: rgb(255, 238, 0);
-
-
-}
-body{
-    background-color: rgba(0, 0, 0, 0.199);
-}
-main{
-    min-width: 300px;
-    max-width: 600px;
-    margin: auto;
-    
-   
-}
-article{
-
-}
-article>h1{
-    font-size: 32px;
-    margin-left: 15px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-article>p{
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
-    margin: auto;
-}
-img.frente{
-    width: 100%;
-
-  
-    
-}
-article>img{
-    width: 100%;
-    
-    
-
-    
-    
-    
-}
-
-aside{
-    background-color: rgba(0, 0, 0, 0.288);
-   
-    border-radius: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.288) ;
-    min-width:300px ;
-    max-width:600px ;
-   
-}    
-aside>h2{
-    color: white;
-    background-color: black;
-    padding: 10px;
-    border-radius: 10px 10px 0px 0px;
-}
-aside>ul{
-    list-style-position: inside;
-    
-    
-}
-ul>li{
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-section.contato{
-    background-image: url(imagem/frente\ da\ nordiesel300.jpg);
-    background-position:  center;
-    padding-top:10vh ;
-    padding-bottom:10vh ;
 }
