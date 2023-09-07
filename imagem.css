@@ -11,17 +11,18 @@
 
 }
 header{
-    background-color: aliceblue;
+    background-color: blue;
+    padding: 10vh;
+     
     
     
 
 }
 header>h1{
-    font-size: 25px;
-    
-
+      
+    margin-bottom:-100px ;
+      font-size: 38px;
+      
+      
 }
-header>p{
-    
 
-}
