@@ -38,6 +38,7 @@ header>p{
 }
 article{
     margin-top: 6vh;
+    min-width: 300px;
 
 
 }
