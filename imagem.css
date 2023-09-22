@@ -53,6 +53,7 @@ article>p{
 }
 article>iframe{
      background-position: center;
+     min-width: 300px;
 }
 
 
