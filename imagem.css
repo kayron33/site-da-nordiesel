@@ -59,9 +59,12 @@ article>iframe{
      background-position: center;
      min-width: 300px;
 }
+article>img{
+    max-width: 600px;
+}
 h1#localização{
            background-color: black;
-           color: yellow;
+           color: rgb(5, 5, 5);
 }
 
 
